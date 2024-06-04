@@ -4,3 +4,11 @@ tqdm
 pandas
 openpyxl
 datasets
+safetensors
+torch
+transformers
+datasets
+pillow
+tqdm
+numpy
+bitsandbytes
